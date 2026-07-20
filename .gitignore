@@ -217,3 +217,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 prompt-injection-dataset-vi-en/
+prompt-injection-demo-vi-en/
